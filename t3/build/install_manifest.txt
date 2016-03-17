@@ -1,0 +1,3 @@
+/home/yuhsh/ProgramCode/CmakeLearning/t3/Test/lib/libhello.so
+/home/yuhsh/ProgramCode/CmakeLearning/t3/Test/lib/libhello.a
+/home/yuhsh/ProgramCode/CmakeLearning/t3/Test/include/hello.h

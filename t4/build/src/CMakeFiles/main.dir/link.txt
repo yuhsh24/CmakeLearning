@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/main.dir/main.o  -o main  -L/home/yuhsh/ProgramCode/CmakeLearning/t3/Test/lib -rdynamic -lhello -Wl,-rpath,/home/yuhsh/ProgramCode/CmakeLearning/t3/Test/lib 

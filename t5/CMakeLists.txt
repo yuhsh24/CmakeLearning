@@ -1,0 +1,4 @@
+PROJECT(CURLTEST)
+#SET(CMAKE_MODULE_PATH /usr/share/cmake-2.8/Modules)
+ADD_SUBDIRECTORY(src)
+

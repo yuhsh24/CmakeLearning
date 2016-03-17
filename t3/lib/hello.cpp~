@@ -1,0 +1,6 @@
+#include<iostream>
+#include"hello.h"
+void helloFunc()
+{
+  std::cout<<"Hello World\n"<<std::endl;
+}
